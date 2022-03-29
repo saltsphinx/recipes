@@ -1,2 +1,2 @@
 # recipes
-A project provided by [The Odin Project](https://www.theodinproject.com/lessons/foundations-links-and-images). This is the first project in The Odin Project's curriculm, and it's meant to put the developers basic HTML skills to the test. Those being html document structure and syntax, use of tags and elements. File structure and relative links, and Git workflow.
+A project provided by [The Odin Project](https://www.theodinproject.com/lessons/foundations-links-and-images). This is the first project in The Odin Project's curriculum, and it's meant to put the developers basic HTML skills to the test. Those being html document structure and syntax, use of tags and elements. File structure and relative links, and Git workflow.
