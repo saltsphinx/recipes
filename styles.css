@@ -4,6 +4,7 @@ body {
 
 p, h1, h2, a, li {
     color: hsl(120, 90%, 10%);
+    font-family: 'Courier New', Courier, monospace;
 }
 
 img {
