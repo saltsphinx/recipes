@@ -1,0 +1,12 @@
+body {
+    background-color: #ffe;
+}
+
+p, h1, h2, a, li {
+    color: hsl(120, 90%, 10%)
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
